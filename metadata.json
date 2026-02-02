@@ -1,0 +1,8 @@
+
+{
+  "name": "Saree.AI - Virtual Try-On",
+  "description": "A sophisticated AI-powered application for visualizing sarees on models and analyzing e-commerce potential using Gemini models.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
